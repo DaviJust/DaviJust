@@ -24,16 +24,7 @@ object **Davi** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJust&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviJust&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 [![iuricode](https://github-readme-stats.vercel.app/api?username=DaviJust&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJust&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
