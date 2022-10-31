@@ -1,6 +1,6 @@
 ### Oie 👋
 
-Gosto de criar diversas solucoes para problemas.
+Meu nome e Davi, sou programador na área Web. Tenho gosto por criar diversas soluções para problemas e cuidar da gestão dos projetos em grupo
 
 ```kotlin
 object **Davi** {
