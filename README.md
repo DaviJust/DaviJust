@@ -24,12 +24,12 @@ object **Davi** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/DaviJust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?DaviJust=vanessaswerts&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJust&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/DaviJust">
- <img align="center" src="https://github-readme-stats.vercel.app/api?DaviJust=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="DaviJust github stats"/>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviJust&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
