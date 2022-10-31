@@ -8,7 +8,7 @@ object **Davi** {
  val acknowledgements = "Web Full-stack"
  
  val primarySkillset = "Javascript, HTML, CSS"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("JavaScript") 
 
 }
 ```
