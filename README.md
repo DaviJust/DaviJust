@@ -1,20 +1,17 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar diversas solucoes para problemas.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-kotlin
+```kotlin
 object **Davi** {
- val name = "DaviJust"
+ val name = "Davi Justino Marques Couto"
  val acknowledgements = "Web Full-stack"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Javascript, HTML, CSS"
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 
 }
+```
 
 ## **Linguagens e Ferramentas:**  
 
