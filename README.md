@@ -25,17 +25,18 @@ object **Davi** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/DaviJust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?DaviJust=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/DaviJust">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="DaviJust github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?DaviJust=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="DaviJust github stats"/>
 </a>
 
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
 
 #### Rede Sociais!
-
 👔 [linkedin][linkedin]
+[linkedin]: www.linkedin.com/in/davi-justino-marques-couto-ti44010
+<br>
+
+
 
