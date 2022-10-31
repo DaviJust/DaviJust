@@ -35,6 +35,6 @@ object **Davi** {
 
 #### Rede Sociais!
 [linkedin]: https://www.linkedin.com/in/davi-justino-marques-couto-ti44010/
-👔 [LinkedIn]👔[linkedin]
+👔 [LinkedIn]
 
 
