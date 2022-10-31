@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Oie 👋
 
 Gosto de criar diversas solucoes para problemas.
 
