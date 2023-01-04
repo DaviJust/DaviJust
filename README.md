@@ -23,6 +23,7 @@ object **Davi** {
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/sass-3629037-3030394.png"></code>
+<code><img height="30" src="https://ionicframework.com/docs/icons/logo-react-icon.png"></code>
 
 
 
